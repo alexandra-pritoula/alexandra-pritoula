@@ -2,7 +2,6 @@
 
 👩🏽‍💻 Statistician / Data Scientist sharing about my journey and learnings in data<br/>
 🔭 Studied Statistics at the University of Geneva, Switzerland (Graduate)<br/>
-🌱 Exploring the data science wilderness and cultivating new skills at www.alexandprapritoula.com<br/>
 📓 Currently working on [PowerBI certification](https://app.datacamp.com/certification/technology-certifications/power-bi-pl-300)<br/>
 ⚡ Fun fact: I speak English 🇦🇺, Spanish 🇩🇴, Russian 🇷🇺, French 🇫🇷, and Mandarin Chinese 🇨🇳<br/>
 📫 How to reach me: alexandra.pritoula@gmail.com
@@ -21,6 +20,6 @@
 [![](https://visitcount.itsvg.in/api?id=alexandra-pritoula&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- 🌱 Exploring the data science wilderness and cultivating new skills at www.alexandprapritoula.com<br/> -->
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
 
