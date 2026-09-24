@@ -13,9 +13,12 @@ My work has focused on developing, validating and applying quantitative methods 
 * Risk & Uncertainty Analysis
 * Time Series & Forecasting
 
-## 📈 GitHub Stats:
-![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandra-pritoula&show_icons=true&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alexandra-pritoula&theme=radical&hide_border=false)<br/>
+## 🛠 Technical Stack
+
+**Languages:** Python, R, SQL, C++
+**Statistics & ML:** Bayesian modelling, regression, classification, clustering, ensemble methods, simulation
+**Libraries & Frameworks:** pandas, NumPy, scikit-learn, Matplotlib, RStan
+**Tools:** Git, GitHub, Power BI
 
 ## 📱 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrapritoula) 
