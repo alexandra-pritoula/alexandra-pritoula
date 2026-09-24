@@ -20,6 +20,17 @@ My work has focused on developing, validating and applying quantitative methods 
 **Libraries & Frameworks:** pandas, NumPy, scikit-learn, Matplotlib, RStan
 **Tools:** Git, GitHub, Power BI
 
+## 📌 Featured Projects
+
+### ✈️ Airline Passenger Satisfaction
+
+End-to-end classification project investigating the drivers of airline passenger satisfaction and predicting satisfaction outcomes. Compared multiple preprocessing strategies and machine-learning models, with a fine-tuned PyTorch neural network achieving **96.7% test accuracy**.
+
+Analysis identified **Online Boarding, Inflight Wi-Fi Service and Class** as the strongest drivers of passenger satisfaction, while model comparison showed that extensive tuning produced only marginal improvement over a substantially simpler Random Forest baseline.
+
+**Methods:** EDA, feature engineering, imputation, classification, cross-validation, hyperparameter tuning, neural networks, model evaluation
+**Tools:** Python, pandas, NumPy, scikit-learn, PyTorch, Matplotlib
+
 ## 📱 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrapritoula) 
 
