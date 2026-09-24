@@ -31,13 +31,3 @@ Analysis identified **Online Boarding, Inflight Wi-Fi Service and Class** as the
 **Methods:** EDA, feature engineering, imputation, classification, cross-validation, hyperparameter tuning, neural networks, model evaluation
 **Tools:** Python, pandas, NumPy, scikit-learn, PyTorch, Matplotlib
 
-## 📱 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrapritoula) 
-
----
-[![](https://visitcount.itsvg.in/api?id=alexandra-pritoula&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- 🌱 Exploring the data science wilderness and cultivating new skills at www.alexandprapritoula.com<br/> -->
-<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
-
